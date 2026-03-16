@@ -1,0 +1,22 @@
+body {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+table {
+    margin: auto;
+    border: 3px solid rgb(213,213,225);
+    padding: 7px;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    transform: sacale(1,1);
+    border: white;
+}
